@@ -34,3 +34,9 @@ The four integers representing the sides will be such that: -2000 <=X <= 2000 (W
 ```
 2 2 2
 ```
+
+# Solution
+Refer
+```
+PolygonIdentification.java file
+```
