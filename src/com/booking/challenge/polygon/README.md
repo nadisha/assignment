@@ -5,6 +5,7 @@ Identify whether four sides (given by four integers) can form a square, a rectan
 ### Input: 
 You will receive an list of strings, each containing four space-separated integers, which represent the length of the sides of a polygon. The input lines will follow the 'A B C D' order as in the following representation:
 
+```
 |-----A-----|
 |           |
 |           |
@@ -12,7 +13,7 @@ D           B
 |           |
 |           |
 |-----C-----|
-
+```
 ### Output: 
 A single line which contains 3 space-separated integers; representing the number of squares, number of rectangles, and number of other polygons with 4 sides. Note that squares shouldn't be counted as rectangles. Invalid polygons should also be counted as 'other polygons'.
 
